@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Debabrata Ghorai</h1>
 <h3 align="center">A Passionate Geospatial Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dghorai&label=Profile%20views&color=0e75b6&style=flat" alt="dghorai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dghorai" alt="dghorai" /></a> </p>
-
 <h3 align="left">About:</h3>
 <p align="left">
 <a>Dr. Debabrata Ghorai is a Data Science enthusiasts with specialized in geospatial analytics and open-source software development. He holds a Ph.D. and Masters degree in Remote Sensing & GIS from Vidyasagar University (VU), Data Science certification from Data Science Authority (DSA) and Full-Stack Data Science Certifcation from iNeuron Intelligence. He is particularly focused on leveraging geospatial analytics, machine learning applications, and cloud computing to study environmental changes, with an emphasis on sustainable agriculture, natural hazard vulnerability, and coastal dynamics. He created several open-source packages designed for advanced geospatial analysis and data science application, including `geoutils-rsg` and `pygeoml`. </a>
@@ -61,3 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>&nbsp;<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dghorai&show_icons=true&locale=en&layout=compact" alt="dghorai" /></a>&nbsp;&nbsp;<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=dghorai&show_icons=true&locale=en" alt="dghorai" /></a></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dghorai&label=Profile%20views&color=0e75b6&style=flat" alt="dghorai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dghorai" alt="dghorai" /></a> </p>
