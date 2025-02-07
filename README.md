@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">About:</h3>
 <p align="left">
-<a>Dr. Debabrata Ghorai is a Data Science enthusiasts with specialized in geospatial analytics and open-source software development. He holds a Ph.D. and Masters degree in Remote Sensing & GIS from Vidyasagar University (VU), Data Science certification from Data Science Authority (DSA) and Full-Stack Data Science Certifcation from iNeuron Intelligence. He is particularly focused on leveraging geospatial analytics, machine learning applications, and cloud computing to study environmental changes, with an emphasis on sustainable agriculture, natural hazard vulnerability, and coastal dynamics. He created several open-source packages designed for advanced geospatial analysis and data science application, including `geoutils-rsg` and `pygeoml`. </a>
+<a>Dr. Debabrata Ghorai is a Data Science enthusiasts with specialized in geospatial analytics and have special interests on open-source software development. He holds a Ph.D. and Masters degree in Remote Sensing & GIS from Vidyasagar University (VU), Data Science certification from Data Science Authority (DSA) and Full-Stack Data Science Certifcation from iNeuron Intelligence. He is particularly focused on leveraging geospatial analytics, machine learning applications, and cloud computing to study environmental changes, with an emphasis on sustainable agriculture, natural hazard vulnerability, and coastal dynamics. In free time, he working on developing open-source tools for advanced geospatial analysis and data science application that are available in `geospatial-toolset` repository. </a>
 </p>
 😄, 🔭, 🌱, 👯, 🤝, 👨‍💻, 📝, 💬, 📫, 📄
 
